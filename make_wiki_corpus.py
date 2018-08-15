@@ -1,3 +1,5 @@
+#Preparinf 10000 articles for topic model
+
 import sys
 from gensim.corpora import WikiCorpus
 
