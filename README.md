@@ -1,5 +1,5 @@
 # WikiPlay
-Experimenting on Wikipedia dump
+Experimenting on Wikipedia dump using Python Gensim
 
 
 1. Extracting articles from compressed dump:
